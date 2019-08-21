@@ -26,3 +26,4 @@
 
 ## Problems
 * commit without -m -> Use Esc :wq to quit Vim
+* wrong message in commit -> git commit --amend -m "New message"
