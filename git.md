@@ -22,3 +22,7 @@
 * add -> Add a file to the stage
 * rm --cached -> Remove a file from a stage
 * commit -m "Present tense description of what changed"
+* log -> enter to move down, q to quit
+
+## Problems
+* commit without -m -> Use Esc :wq to quit Vim
