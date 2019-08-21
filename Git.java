@@ -4,5 +4,6 @@ public class Git {
         System.out.println("Hi Mom!");
         System.out.println("Cayden Lloyd.");
         System.out.println("Beefy Boi");
+        System.out.println("I love Minecraft.");
     }
 }
